@@ -37,6 +37,7 @@ visualize accuracy and loss of VGG-model:
 ![vgg_loss](https://github.com/dinasoffa/Fruits_classification/assets/101818830/fb89f9da-963b-41b0-ba8b-57027db568f3)
 
 prediction result:
+
 ![vgg_pred](https://github.com/dinasoffa/Fruits_classification/assets/101818830/01fa8f2c-c8d8-49d2-8551-7d1ac293b6e9)
 
 
